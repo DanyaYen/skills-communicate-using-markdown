@@ -6,3 +6,6 @@
 ``` python
 x = 5
 ```
+- [ ] here
+- [ ] no there
+- [x] yep right here
